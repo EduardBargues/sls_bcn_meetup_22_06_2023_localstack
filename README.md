@@ -39,3 +39,9 @@ To make this example work in your machine, you need to:
 5. Execute the `run.sh` script.
 
 `./run.sh`
+
+---
+
+## Wanna see how it looks?
+
+Check out 👉 [this video]() 👈 I made where I walk you through the example. Enjoy! 👏
