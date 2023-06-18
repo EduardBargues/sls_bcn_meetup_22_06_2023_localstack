@@ -44,4 +44,4 @@ To make this example work in your machine, you need to:
 
 ## Wanna see how it looks?
 
-Check out 👉 [this video]() 👈 I made where I walk you through the example. Enjoy! 👏
+Check out 👉 [this video](https://www.loom.com/share/92657919e3b240dd9dfa233700099410?sid=93c3c09a-fa9b-4957-9705-d521e4917f64) 👈 I made where I walk you through the example. Enjoy! 👏
