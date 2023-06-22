@@ -38,7 +38,13 @@ _class: invert
 
 Let's get our hands dirty 💪!
 
-![bg right:40% h:100%](https://t4.ftcdn.net/jpg/03/17/25/45/360_F_317254576_lKDALRrvGoBr7gQSa1k4kJBx7O2D15dc.jpg)
+- Api gateaway + Lambda
+- Deployment time:
+  - ~30s AWS
+  - ~60s LocalStack
+- Let's change Lambda runtime?
+
+![bg right:35% h:100%](images/demo.png)
 
 ---
 
